@@ -20,4 +20,4 @@ shared_scripts {
 
 lua54 'yes'
 
-dependencies {'ox_lib' }
+dependencies {'ox_lib', 'ox_target' }
